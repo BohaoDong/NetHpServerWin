@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetHpServerWin", "NetHpServerWin.csproj", "{280880E6-326A-4F96-81CD-5F887F10DD8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280880E6-326A-4F96-81CD-5F887F10DD8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280880E6-326A-4F96-81CD-5F887F10DD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280880E6-326A-4F96-81CD-5F887F10DD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280880E6-326A-4F96-81CD-5F887F10DD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB821A4F-AEAD-4755-9063-159F1654B8A8}
+	EndGlobalSection
+EndGlobal

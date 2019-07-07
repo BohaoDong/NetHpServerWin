@@ -1,0 +1,8 @@
+{
+  "ServerIp": "127.0.0.1",
+  "TcpPorts": "60000,60001,60002,60003,60004",
+  "UdpPorts": "50000,50001,50002,50003,50004",
+  "UdpPortStart": 60000,
+  "UdpPortEnd": 66000,
+  "HearIntervalTime":  5 
+}
